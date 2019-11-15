@@ -1,0 +1,7 @@
+{"name":"John","password":"1234567890"}
+{"name":"123","password":"123123"}
+{"name":"yura","password":"742984234"}
+{"name":"SHREK","password":""}
+{"name":"helo","password":"world"}
+{"name":"fgssse","password":"seewerer243"}
+{"name":"►►►☼☼☼◄◄◄","password":"☼☼☼◄►☼☼☼"}
